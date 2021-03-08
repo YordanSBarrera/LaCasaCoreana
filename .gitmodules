@@ -1,0 +1,6 @@
+[submodule "laCasaCoreana"]
+	path = laCasaCoreana
+	url = https://github.com/davidgivad-lee/laCasaCoreana.git
+[submodule "ecommerce-backend"]
+	path = ecommerce-backend
+	url = https://github.com/davidgivad-lee/ecommerce-backend.git
